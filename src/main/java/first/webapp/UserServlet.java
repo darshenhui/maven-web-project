@@ -225,7 +225,7 @@ public class UserServlet extends HttpServlet {
         }
         
         //redirect us back to UserServlet !note: do change the url to your project name
-        response.sendRedirect("http://localhost:8085//lesson14/UserServlet");
+        response.sendRedirect("http://localhost:8090//lesson14/UserServlet");
 	}
 
 	//method to delete user
