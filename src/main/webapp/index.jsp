@@ -16,7 +16,7 @@ Enter your login name: <input type="text" name="yourName" size="20">
 Enter your password: <input type="password" name="yourName" size="20">
 <input type="submit" value="Login" />
 </form>
-
+<br>
  <button onclick="window.location.href='http://localhost:8090/lesson14/register.jsp';"> Click to go to user registration page </button>
 
 </body>
