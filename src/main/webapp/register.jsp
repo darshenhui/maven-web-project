@@ -6,10 +6,10 @@
 <body>
     <form action="RegisterServlet" method="post">
  
-        Name:<input type="text" name="userName"/><br/>
+        User Name:<input type="text" name="userName"/><br/>
         Password:<input type="password" name="password"/><br/>
-        Email Id:<input type="text" name="email" /><br/>
-        Language: <select name="language">
+        Email Address:<input type="text" name="email" /><br/>
+        Preferred Language: <select name="language">
             <option>Hindi</option>
             <option>English</option>
             <option>French</option>
