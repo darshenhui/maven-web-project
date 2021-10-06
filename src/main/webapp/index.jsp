@@ -2,6 +2,11 @@
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
+<style>
+
+
+body {background-color: coral;}
+</style>
 <head>
 <meta charset="ISO-8859-1">
 <title>Login Page</title>
