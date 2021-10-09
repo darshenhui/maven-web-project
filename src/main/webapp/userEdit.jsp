@@ -48,7 +48,7 @@
                         </c:if>
 
                         <fieldset class="form-group">
-                            <label>User Name</label> <input type="text" value="<c:out value='${user.name}' />" class="form-control" name="name" required="required">
+                            <label>Admin Name</label> <input type="text" value="<c:out value='${user.name}' />" class="form-control" name="name" required="required">
                         </fieldset>
 
                         <fieldset class="form-group">
@@ -56,11 +56,11 @@
                         </fieldset>
                         
                         <fieldset class="form-group">
-                            <label>User Email</label> <input type="text" value="<c:out value='${user.email}' />" class="form-control" name="email">
+                            <label>Admin Email</label> <input type="text" value="<c:out value='${user.email}' />" class="form-control" name="email">
                         </fieldset>
 
                         <fieldset class="form-group">
-                            <label> Language</label> <input type="text" value="<c:out value='${user.language}' />" class="form-control" name="language">
+                            <label> Prefered Language</label> <input type="text" value="<c:out value='${user.language}' />" class="form-control" name="language">
                         </fieldset>
 
                         <button type="submit" class="btn btn-success">Save</button>
