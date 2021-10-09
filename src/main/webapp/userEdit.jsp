@@ -38,7 +38,7 @@
                                     Edit User
                                 </c:if>
                                 <c:if test="${user == null}">
-                                    Add New User
+                                    Add New Admin User
                                 </c:if>
                             </h2>
                         </caption>
