@@ -17,7 +17,7 @@
                     </div>
 
                     <ul class="navbar-nav">
-                        <li><a href="<%=request.getContextPath()%>/list" class="nav-link">Users</a></li>
+                        <li><a href="<%=request.getContextPath()%>/list" class="nav-link">Admin</a></li>
                     </ul>
                 </nav>
             </header>
